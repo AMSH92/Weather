@@ -5,6 +5,7 @@ Also it shall help with :
 *  Know how to program without stpryboard. 
 *  Know how to Auto Layouts programmatically.
 *  Know how to use URL session. 
+*  Know how to deal with coordinates.
 *  Know how to deal with Json Data and how to display it.
 *  Know how to use Enumeration and Struct for convenient coding.
 
@@ -17,7 +18,7 @@ Also it shall help with :
 * نتعلم كيف نتعامل مع الـ JSON و كيف نظرها .  
 * نتعلم كيف نستخدم الـ  Enumeration 
 نتعلم كيف نستخدم الـ struct  
-* 
+* كيف نتعامل مع بيانات الموقع
 
 ## SCREENSHOTS | صور
 ![Screen Shot 2019-03-28 at 10 47 59 AM](https://user-images.githubusercontent.com/19398043/55140800-fc5e1f00-5149-11e9-9337-b18e22ff594b.png)
